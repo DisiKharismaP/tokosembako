@@ -19,8 +19,8 @@ session_start(); // Start the session
             <h2>Menu</h2>
             <ul>
                 <li><a href="">Dashboard</a></li>
-                <li><a href="../pembelian/pembelian.php">Pembelian</a></li>
-                <li><a href="../penjualan/penjualan.php">Penjualan</a></li>
+                <li><a href="pembelian/pembelian.php">Pembelian</a></li>
+                <li><a href="penjualan/penjualan.php">Penjualan</a></li>
             </ul>
         </nav>
 

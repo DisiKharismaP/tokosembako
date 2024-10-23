@@ -13,7 +13,7 @@
         <nav class="sidebar">
             <h2>Menu</h2>
             <ul>
-                <li><a href="../dashboard/dashboard.php">Dashboard</a></li>
+                <li><a href="../dashboard.php">Dashboard</a></li>
                 <li><a href="../pembelian/pembelian.php">Pembelian</a></li>
                 <li><a href="">Penjualan</a></li>
             </ul>
